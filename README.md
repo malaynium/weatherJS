@@ -1,10 +1,12 @@
 # Weather JS part 1:intro & ui
 
-* []register at api website:https://www.wunderground.com/
+# KIV FOR LATER USING https://www.openweathermap.org/api API
 
-file structure
+* [x] register at api website:https://www.wunderground.com/
 
-index.html basic structure
+* [] App folder structure
+
+* [] index.html basic structure
 
 get bootswwach css link
 
